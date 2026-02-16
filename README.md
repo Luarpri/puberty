@@ -21,7 +21,7 @@ Runtime de scratch jr que corre en scratch, esto es solo una prueba de concepto
 Debido a que es muy temprano hay que tener algunas medidas en cuenta
  - Los scripts solo correran si estan en "Ta" (medida temporal)
  - Pueden haber muchos bugs (reportalos en issues si es el caso)
-- Si tienes un sprite personalizado, todos los objectos tendran ese sprite, incluso si no tienen dicho sprite
+- Si tienes un sprite personalizado, todos los objetos tendran ese sprite, incluso si no tienen dicho sprite
 - Los sprites oficiales de Scratch Jr no cargaran
 ## Depuracion
 Hay algunas teclas de depuracion<br>
