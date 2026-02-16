@@ -3,6 +3,7 @@ Runtime de scratch jr que corre en scratch, esto es solo una prueba de concepto
 ![An image running an empty project](screenshot.png)
 ## Bloques no implementados
 - Bucles, bloques de espera y realmente cualquier bloque que corre a varios frames
+  - Solo el bucle "Repetir indefinidamente" esta soportado 
 - Sonidos de usuario
 - Paginas (funciona pero no muy bien)
 ### Bloques implementados
@@ -17,7 +18,6 @@ Runtime de scratch jr que corre en scratch, esto es solo una prueba de concepto
 - Mostrar/esconder
 - Restablecer tamaño
 # Consideraciones
-
 Debido a que es muy temprano hay que tener algunas medidas en cuenta
  - Los scripts solo correran si estan en "Ta" (medida temporal)
  - Pueden haber muchos bugs (reportalos en issues si es el caso)
