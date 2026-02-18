@@ -1,4 +1,4 @@
-# Puberty
+# [Puberty](https://luarpri.github.io/puberty/puberty/)
 Runtime de scratch jr que corre en scratch, esto es solo una prueba de concepto
 ![An image running an empty project](screenshot.png)
 ## Bloques no implementados
