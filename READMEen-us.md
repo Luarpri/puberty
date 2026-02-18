@@ -1,5 +1,5 @@
-# Puberty
-A Scratch Jr runtime running in Scratch. This is just a proof of concept.
+# [Puberty](https://luarpri.github.io/puberty/puberty/)
+A Scratch Jr runtime that runs in Scratch. This is just a proof of concept.
 ![An image running an empty project](screenshot.png)
 ## Unimplemented Blocks
 - Loops, wait blocks, and really any block that runs across multiple frames
