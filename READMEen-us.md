@@ -3,6 +3,7 @@ A Scratch Jr runtime running in Scratch. This is just a proof of concept.
 ![An image running an empty project](screenshot.png)
 ## Unimplemented Blocks
 - Loops, wait blocks, and really any block that runs across multiple frames
+  - Only the "forever" loop is supported
 - User sounds
 - Pages (works but not very well)
 ### Implemented Blocks
