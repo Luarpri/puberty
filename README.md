@@ -1,4 +1,4 @@
-# [Puberty](https://luarpri.github.io/puberty/puberty/)
+# Puberty
 A Scratch Jr runtime that runs in Scratch. This is just a proof of concept.
 ![An image running an empty project](screenshot.png)
 ## Unimplemented Blocks
