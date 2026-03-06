@@ -1,6 +1,6 @@
 # Puberty
 A Scratch Jr runtime that runs in Scratch. This is just a proof of concept.
-![An image running an empty project](screenshot.png)
+![An image running an empty project](screenshot.gif)
 ## Unimplemented Blocks
 (if your block is not here, it is implemented)
 - Loops, wait blocks, and really any block that runs across multiple frames
